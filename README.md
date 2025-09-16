@@ -47,9 +47,9 @@
   <img width="30" />
   <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" height="60" alt="reactnative logo"  />
   <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="60" alt="tailwindcss logo"  />
+  <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" height="60" alt="tailwindcss logo"  />
   <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
+  <img src="https://avatars.githubusercontent.com/u/120183344?s=48&v=4" height="60" alt="gluestack logo"  />
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
   <img width="30" />
